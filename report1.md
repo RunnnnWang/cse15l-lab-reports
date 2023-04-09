@@ -1,6 +1,6 @@
 1. Install VScode
 * I downloaded VScode last quarter on their official website by clicking on that link for mac. 
-![] (https://www.icloud.com/iclouddrive/0b0RjlHYKHdaUwlkju3F0O7fQ#Screen_Shot_2023-04-09_at_12.23.35_PM)
+![picture](https://user-images.githubusercontent.com/130102197/230794950-9f542981-c160-4bbc-920b-a5835899fbcc.png)
 * I downloaded the zip, unzipped it and then it is on my desktop.
 * The version of my VScode is 19. In CSE12 DI the TA said if it crashes we should use 17 version and download it with this [link](https://docs.google.com/document/d/13eEwPOVcczicC2q6db6fhlB2BSdnBDh7TRs0C4Mh9BI/edit). 
 2. Remotely Connecting
