@@ -9,4 +9,6 @@
 * Then I got to this page saying the connection is closed. 
 3. Trying Some Commands
 * Instead of trying some commands on the remote server, I tried it on my computer.
-* I typed in 
+* I tried all the commands on this picture. 
+* These are the tries.
+* I learnt again that cat is to display the text in the file. cd ~ is to change the direction to the home directory. ls is to list the files in the current directory. 
