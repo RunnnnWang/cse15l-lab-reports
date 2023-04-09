@@ -1,3 +1,4 @@
+# Lab Report 1
 1. Install VScode
 * Downloaded VScode on using their official website by clicking on this [link](https://code.visualstudio.com/download). 
 ![picture](https://user-images.githubusercontent.com/130102197/230794950-9f542981-c160-4bbc-920b-a5835899fbcc.png)
