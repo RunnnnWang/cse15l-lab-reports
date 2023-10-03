@@ -23,6 +23,7 @@
 ## cd with a path being a directory
 <img width="262" alt="Screen Shot 2023-10-03 at 11 19 14 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/6481fda4-7910-4afa-9b3a-67b58f9ddd33">
 
+
 <img width="233" alt="Screen Shot 2023-10-03 at 11 19 34 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/a46c7265-c8df-4a18-b1f7-07a75fc86ebf">
 
 * Working directory: this workspace's home directory
