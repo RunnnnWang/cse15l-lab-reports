@@ -11,9 +11,37 @@
 
 * Working directory: this workspace's home directory
 * ls prints the items in the current directory. Since I am in my workspace's home directory and there is only the lecture1 folder in it, lecture1 gets printed.
-* This is no error.
+* There is no error.
 
 ## cat without argument
+<img width="230" alt="Screen Shot 2023-10-03 at 11 40 30 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/6f110ccb-22d3-429b-a937-17880c48f201">
+
+* Working directory: this workspace's home directory
+* cat concatenates files and prints out their contents. In this command, because I don't put any argument after cat, it is waiting for me to put a directory and I stopped it with command+C.
+* There is no error.
+
+## cd with a path being a directory
+<img width="262" alt="Screen Shot 2023-10-03 at 11 19 14 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/6481fda4-7910-4afa-9b3a-67b58f9ddd33">
+<img width="233" alt="Screen Shot 2023-10-03 at 11 19 34 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/a46c7265-c8df-4a18-b1f7-07a75fc86ebf">
+
+* Working directory: this workspace's home directory
+* I changed the directory to lecture1 and now in the next line you can see I am in the lecture1 directory.
+* No error.
+
+## ls with a path being a directory
+<img width="412" alt="Screen Shot 2023-10-03 at 11 21 19 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/17339742-4f98-4082-b99e-10464891a114">
+* Working directory: lecture1
+* I print the files list in this lecture1 directory and there are en-us.txt, es-mx.txt, ko-ko.txt, zh-cn.txt in the file. Thus, those files are printed in the terminal with a space to separate them.
+* No error. 
+
+## cat with a path being a directory
+<img width="380" alt="Screen Shot 2023-10-03 at 11 21 25 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/06ee0080-2055-4996-ae96-52c8ae7f4f2a">
+* Working directory: lecture1
+* cat messages try to print the content in the messages directory and print it in the terminal. However, cat can only do it for files so the output is saying this is not a file but a directory.
+* 
+
+
+
 
 
 
