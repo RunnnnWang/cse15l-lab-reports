@@ -38,7 +38,13 @@
 <img width="380" alt="Screen Shot 2023-10-03 at 11 21 25 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/06ee0080-2055-4996-ae96-52c8ae7f4f2a">
 * Working directory: lecture1
 * cat messages try to print the content in the messages directory and print it in the terminal. However, cat can only do it for files so the output is saying this is not a file but a directory.
-* 
+* No error. It is an information message.
+
+## cd with a path being a file
+<img width="393" alt="Screen Shot 2023-10-03 at 11 22 02 AM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/5e94cde5-4435-415c-b01a-679034b58312">
+* Working directory: ~/lecture1
+* We try to change directory into the Hello.java file in this lecture1 folder. But because we can only change directory into another directory, the system prints out a message saying Hello.java is not a directory. 
+
 
 
 
