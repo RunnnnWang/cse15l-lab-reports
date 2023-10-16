@@ -40,12 +40,13 @@ class StringServer {
     }
 }
 ```
-### Output1
+### Output 1
 ![screenshot 1](lab2.png)
 The methods that are called are handleRequest(), getPath(), equals(), contains(), getQuery(), and split(). 
 The relevant arguments are "http://localhost:4500/add-message?s=Hello", "/", "=", "s". 
 The url changes to "http://localhost:4500/add-message?s=Hello", "/", "=", "s". The int variable num changes from 0 to 1, String str changes from "" to "1. Hello \n". 
 
+### Output 2
 ![screenshot 2](lab2_2.png)
 The methods that are called are handleRequest(), getPath(), equals(), contains(), getQuery(), and split(). 
 The relevant arguments are "http://localhost:4500/add-message?s=How%20are%20you", "/", "=", "s". 
