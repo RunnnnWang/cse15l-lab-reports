@@ -1,6 +1,7 @@
 # Lab Report 2
 ## Part 1
 Code:
+```java
 import java.io.IOException;
 import java.net.URI;
 
@@ -38,3 +39,4 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
+```
