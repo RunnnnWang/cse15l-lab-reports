@@ -57,7 +57,7 @@ The url changes to "http://localhost:4500/add-message?s=How%20are%20you". The in
 <img width="756" alt="Screen Shot 2023-10-16 at 4 10 14 PM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/0cbe3772-7885-453b-8801-bffa12156773">
 
 ### Path to Public Key
-
+![path to public](path.png)
 
 ### Login without Password
 <img width="978" alt="Screen Shot 2023-10-16 at 4 11 56 PM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/41ab1edd-6dcc-4898-9bb9-e1ffae3e838d">
