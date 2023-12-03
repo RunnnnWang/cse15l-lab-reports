@@ -21,6 +21,7 @@ Hi, you are correct about the part where there might be something wrong with how
 
 The student tried with a longer list and discovered that the second element of list1 is still missing in the final result but everything also is correct. There are two while loops that deal with list1. She knows that the first while loop ends when "bob" is put into the list, and then because list1 is longer everything will be added one by one in the second while loop. She checks the second while loop that deals with list1 and doesn't see any error. Then she goes to the first while loop starting from line 28 and finds that index1 adds by 2 every time instead of 1. So after "a" is added the index changes from 0 to 2 and then when the program runs the second while loop for list1 it adds to the new list starting from "eye" instead of "cake". After she changes the index1 += 2 into index +=1 in line 31, everything works as expected as shown below. 
 
+
 <img width="878" alt="Screen Shot 2023-12-03 at 1 14 16 PM" src="https://github.com/RunnnnWang/cse15l-lab-reports/assets/130102197/aa3b0b5f-9e78-4a6a-aae3-e582258478f3">
 
 ## Part 2
